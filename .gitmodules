@@ -1,0 +1,3 @@
+[submodule "LifeCycleScripts"]
+	path = LifeCycleScripts
+	url = https://github.com/WF-ShAre/LifeCycleScripts.git
