@@ -1,5 +1,5 @@
 # WF-2-WF
-![myimage-alt-tag](https://github.com/WF-ShAre/NJ-WF/raw/master/NJ.jpg)
+![myimage-alt-tag](https://github.com/WF-ShAre/WF-2-WF/blob/master/WF-2.jpg)
 
 
   WF-Title: Neighbour Joining
